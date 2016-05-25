@@ -6,3 +6,15 @@
   float: left;
   padding: 0% 2% 0% 2%;
 }
+
+.before {
+  background-color: green;
+}
+
+.during {
+  background-color: yellow;
+}
+
+.after {
+  background-color: orange;
+}
